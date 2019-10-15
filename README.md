@@ -1,4 +1,4 @@
-# DSC Website Boilerplate
+# DSC Website Texas Tech University
 
 # Table of Contents
 
@@ -64,8 +64,3 @@ The [project-id] would be **dsc-your-university-name**. This command deploys you
 ## How can I get a custom domain instead of the .appspot.com?
 You can read more about getting a custom domain for your app engine project [here](https://cloud.google.com/appengine/docs/standard/python/mapping-custom-domains).
 
-# Authors
-"Alexander Garcia" garci877@cougars.csusm.edu
-
-# Contributors
-"Ace Gabriel Figueroa" figue032@cougars.csusm.edu
