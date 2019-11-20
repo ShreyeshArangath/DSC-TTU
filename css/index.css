@@ -552,6 +552,12 @@ canvas {
     font-size: 40px;
     padding: 10px;
 }
+.footer-social-media .github {
+    color: black;
+    font-size: 40px;
+    padding: 10px;
+}
+
 
 .footer-social-media .twitter {
     color: #1DA1F2;
@@ -560,7 +566,7 @@ canvas {
 }
 
 .footer-social-media .discord {
-    color: #7289DA;
+    color: black;
     font-size: 40px;
     padding: 10px;
 }
